@@ -11,10 +11,10 @@ The main goal of this project is to investigate the relationship between working
 - Provides actionable insights to improve both work conditions and employee growth  
 
 ## Tools and Technologies
-- Python 3  
+- Python
 - Google Colab  
 - Data analysis libraries (pandas, matplotlib, seaborn)  
-- Basic machine learning techniques (scikit-learn)  
+- Basic machine learning techniques
 
 ---
 
